@@ -1,0 +1,1 @@
+require 'reco/version'
